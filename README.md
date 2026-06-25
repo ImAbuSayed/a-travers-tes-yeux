@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/a-travers-tes-yeux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For À Travers Tes Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/a-travers-tes-yeux/) |
+| **Get License** | [Secure Licensing Rights for À Travers Tes Yeux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/a-travers-tes-yeux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit noire, ton regard est un mirage
+> Je perds le contrôle, baby, sur ce doux rivage
+> Laisse-moi t'emmener loin, au-delà de la ville
+> La tension monte, on danse sur le fil
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
