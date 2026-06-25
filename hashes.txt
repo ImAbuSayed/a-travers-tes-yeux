@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - À Travers Tes Yeux
+
+This log tracks the cryptographic history and versioning for the song **À Travers Tes Yeux** (a-travers-tes-yeux).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T01:57:35.281835 | `v1` | `75ea406b0e30b93124995ca677eae2a95204eb66e467b4dbf6873a7b9cb9dba6` | `4a6693bc601c1a6fe3e4b7d55ce2908fef0c58cf2d38385800f3bdb1fd6f5ab0` | `2026-06-26_a-travers-tes-yeux-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
